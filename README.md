@@ -13,5 +13,5 @@ Script manager est un éditeur de script sh pour android, il propose aussi un mo
 https://play.google.com/store/apps/details?id=com.releasestandard.scriptmanagerpro.free
 
 #### Editeur de code
-Travail en cours...
-Un éditeur de code, pour tout language de calcul, le soft est en développement, donc pour le tester vous devez télécharger les apks directements [ici](editor_de_code)
+Travail en cours...<br />
+Un éditeur de code, pour tout language de calcul, pour le tester vous devez télécharger les apks directements [ici](editor_de_code) et les installer sur votre téléphone.
