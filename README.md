@@ -12,6 +12,17 @@ https://github.com/emmausConnect/inspector
 Script manager est un éditeur de script sh pour android, il propose aussi un moyen différent d'accès aux api android.
 https://play.google.com/store/apps/details?id=com.releasestandard.scriptmanagerpro.free
 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/rdy2go2/presentation/main/scriptmanager/images/Screenshot_2021-11-21_17-01-26.png" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rdy2go2/presentation/main/scriptmanager/images/Screenshot_2021-11-21_17-00-59.png" />
+    </td>
+  </tr>
+  </table>
+
 #### Editeur de code
 Travail en cours...<br />
 Un éditeur de code, pour tout language de calcul, pour le tester vous devez télécharger les apks directements [ici](editor_de_code) et les installer sur votre téléphone.<br />
