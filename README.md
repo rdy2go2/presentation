@@ -17,6 +17,9 @@ https://play.google.com/store/apps/details?id=com.releasestandard.scriptmanagerp
 <table>
   <tr>
     <td>
+      <img src="https://raw.githubusercontent.com/rdy2go2/presentation/main/editor_de_code/images/Screenshot_2021-11-21_17-05-44.png" />
+    </td>
+    <td>
       <img src="https://raw.githubusercontent.com/rdy2go2/presentation/main/scriptmanager/images/Screenshot_2021-11-21_17-01-26.png" />
     </td>
     <td>
