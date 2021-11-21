@@ -1,5 +1,5 @@
 # Présentation
-Présentation de ce que je peux faire.<br />
+Présentation de ce que je peux faire mon cv est dispo [ici](https://raw.githubusercontent.com/rdy2go2/presentation/main/cv_developpeur_update.pdf).<br />
 Pour une application à développer "from scratch" vous pouvez compter au minimum 3 mois pour avoir une première version en prod.<br />
 
 
