@@ -14,4 +14,22 @@ https://play.google.com/store/apps/details?id=com.releasestandard.scriptmanagerp
 
 #### Editeur de code
 Travail en cours...<br />
-Un éditeur de code, pour tout language de calcul, pour le tester vous devez télécharger les apks directements [ici](editor_de_code) et les installer sur votre téléphone.
+Un éditeur de code, pour tout language de calcul, pour le tester vous devez télécharger les apks directements [ici](editor_de_code) et les installer sur votre téléphone.<br />
+
+<table style="border: 0px;">
+  <tr>
+    <td>
+<img src="https://raw.githubusercontent.com/rdy2go2/presentation/main/editor_de_code/images/Screenshot_2021-11-21_16-40-14.png" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rdy2go2/presentation/main/editor_de_code/images/Screenshot_2021-11-21_16-46-34.png" />
+    </td>
+    <td>
+<img src="https://raw.githubusercontent.com/rdy2go2/presentation/main/editor_de_code/images/Screenshot_2021-11-21_16-49-25.png" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rdy2go2/presentation/main/editor_de_code/images/Screenshot_2021-11-21_16-49-39.png" />
+    </td>
+  </tr>
+  </table>
+
