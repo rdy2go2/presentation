@@ -2,13 +2,6 @@
 Présentation de ce que je peux faire mon cv est dispo [ici](https://raw.githubusercontent.com/rdy2go2/presentation/main/cv_developpeur_update.pdf).<br />
 Pour une application à développer "from scratch" vous pouvez compter au minimum 3 mois pour avoir une première version en prod.<br />
 
-
-## Windows software automation
-utilisation des OLE en vbscript/hta<br />
-https://github.com/emmausConnect/inspector
-
-<img src="https://user-images.githubusercontent.com/91908415/141848177-3f16f451-9e68-4ab0-ba7c-82525dc19655.png" />
-
 ## Android java dev
 #### Scriptmanager
 Script manager est un éditeur de script sh pour android, il propose aussi un moyen différent d'accès aux api android.
@@ -48,4 +41,16 @@ Un éditeur de code, pour tout language de calcul, pour le tester vous devez té
     </td>
   </tr>
   </table>
+
+
+
+## Windows software automation
+
+utilisation des OLE en vbscript/hta<br />
+
+https://github.com/emmausConnect/inspector
+
+
+
+<img src="https://user-images.githubusercontent.com/91908415/141848177-3f16f451-9e68-4ab0-ba7c-82525dc19655.png" />
 
