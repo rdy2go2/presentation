@@ -7,6 +7,8 @@ Pour une application à développer "from scratch" vous pouvez compter au minimu
 utilisation des OLE en vbscript/hta<br />
 https://github.com/emmausConnect/inspector
 
+<img src="https://user-images.githubusercontent.com/91908415/141848177-3f16f451-9e68-4ab0-ba7c-82525dc19655.png" />
+
 ## Android java dev
 #### Scriptmanager
 Script manager est un éditeur de script sh pour android, il propose aussi un moyen différent d'accès aux api android.
